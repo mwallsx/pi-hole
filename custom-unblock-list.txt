@@ -1,0 +1,14 @@
+# CMP - Breaks some Apps/Sites
+fundingchoicesmessages.google.com
+
+# Telekom MagentaCloud - Login
+tags-eu.tiqcdn.com
+
+# Slow loading of the top images (tiles) in the new Windows 11 App Store
+bat.bing.com
+
+# Error reports and analyses
+in.appcenter.ms
+
+# microsoft defender
+v10c.events.data.microsoft.com
